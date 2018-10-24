@@ -1,2 +1,3 @@
 # Hello-World
 A place to store ideas, share and discuss things with others...
+Hej jeg hedder Stine jeg er 22 år og bor i Århus. 
